@@ -1,0 +1,5 @@
+name: ServerSideHitDetection
+main: me.islandscout.sshd.SSHDPlugin
+version: 1.0
+author: Islandscout
+description: A server-side hit detection API
